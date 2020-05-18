@@ -8,6 +8,9 @@ public class RestAPITest {
 	public void test5()
 	{
 		System.out.println("restAPI testcase 1");
+		System.out.println("restAPI testcase 2");
+		System.out.println("restAPI testcase 3");
+
 
 	}
 	@Test
